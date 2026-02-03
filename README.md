@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olympblack" alt="olympblack" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Mon CV local**
+- 👯 I’m looking to collaborate on **KariCV**
 
 - 👨‍💻 All of my projects are available at [Mon Portfolio](https://juleschrist-portfolio.vercel.app/)
 
