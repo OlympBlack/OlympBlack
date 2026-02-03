@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Mon CV local**
 
-- 👨‍💻 All of my projects are available at [https://juleschrist.lavoixdabouloussi.org/](https://juleschrist.lavoixdabouloussi.org/)
+- 👨‍💻 All of my projects are available at [Mon Portfolio](https://juleschrist-portfolio.vercel.app/)
 
 - 📝 I regularly share my knowledge and tech insights on YouTube [https://www.youtube.com/@olympblack](https://www.youtube.com/@olympblack)
 
