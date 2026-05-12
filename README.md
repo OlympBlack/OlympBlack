@@ -64,14 +64,14 @@ I enjoy turning complex ideas into simple and intuitive interfaces, while contin
 
 <p align="left">
   <a href="https://linkedin.com/in/jules-christ-gbassi-847bb5314" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" width="40"/>
   </a>
 
   <a href="https://facebook.com/juleschristleductateur.ayeko" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" width="40"/>
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" width="40"/>
   </a>
 
   <a href="https://www.youtube.com/@olympblack" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="40" width="40"/>
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="40" width="40"/>
   </a>
 </p>
