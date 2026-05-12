@@ -62,20 +62,4 @@ I enjoy turning complex ideas into simple and intuitive interfaces, while contin
 
 ## Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/jules-christ-gbassi-847bb5314">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://facebook.com/juleschristleductateur.ayeko">
-    <img src="https://skillicons.dev/icons?i=facebook" />
-  </a>
-  <a href="https://www.youtube.com/@olympblack">
-    <img src="https://skillicons.dev/icons?i=youtube" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  Building ideas into scalable digital solutions.
-</p>
+v
