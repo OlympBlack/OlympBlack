@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jules-christ GBASSI</h1>
+<h1 align="center">Hi 👋, I'm Jules-christ GBASSI</h1>
 
 <p align="center">
   Full-Stack Developer • UI/UX Designer • Based in Benin
@@ -63,8 +63,8 @@ I enjoy turning complex ideas into simple and intuitive interfaces, while contin
 ## Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/jules-christ-gbassi-847bb5314" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" width="40"/>
+ <a href="https://linkedin.com/in/jules-christ-gbassi-847bb5314" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
   </a>
 
   <a href="https://facebook.com/juleschristleductateur.ayeko" target="_blank">
