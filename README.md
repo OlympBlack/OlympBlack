@@ -16,7 +16,6 @@ I am a Full-Stack Developer and UI/UX Designer focused on building clean, scalab
 
 I enjoy turning complex ideas into simple and intuitive interfaces, while continuously improving my skills in software engineering and system design.
 
-- Currently working on [Cheazimo](http://cheazimo.com/)
 - Open to collaboration on web and software projects
 - Portfolio: https://juleschrist.lavoixdabouloussi.org/
 - YouTube: https://www.youtube.com/@olympblack
